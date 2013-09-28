@@ -10,9 +10,28 @@ Adding, sorting and nesting tasks will be aided using jquery:
 
 http://jqueryui.com/sortable/
 
-Site Map:
+http://learn.jquery.com/code-organization/
+
+INTERACTIONS
+ Draggable:   http://jqueryui.com/draggable/
+ Droppable:   http://jqueryui.com/droppable/
+ Resizable:   http://jqueryui.com/resizable/
+ Selectable:  http://jqueryui.com/selectable/
+ Sortable:    http://jqueryui.com/sortable/
+
+ ?? Nest?
+
+WIDGETS
+ Accordion
+ Button
+ Datepicker
+ Tabs
+ http://jqueryui.com/tooltip/#forms
+
+Version 1  Site Map:
 
 HOME
+ |
  | - contact
  |      |-- book blog admin
  |      |-- blogify app dev team
@@ -22,9 +41,13 @@ HOME
  |      |-- about the OSS blogify project
  |      |-- about [book name] book blog admin
  |      |-- about blogify app dev team
+ |
+ | => [Book Name]: Blogified!!
  | 
  | - roadmap
  |      |
- |      |-- Versions --< Commits --< Tests --< Barter Points
+ |      |-- Versions --< Features --< Commits --< Tests --< Barter Points
+ |
+ | - error:  Page Not Found.
 
-
+.gitignore
