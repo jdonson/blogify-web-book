@@ -30,6 +30,8 @@ WIDGETS
 
 Version 1  Site Map:
 
+This needs to be resolved in terms of github wiki markup...
+
 HOME
  |
  | - contact
