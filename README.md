@@ -28,29 +28,5 @@ WIDGETS
  Tabs
  http://jqueryui.com/tooltip/#forms
 
-Version 1  Site Map:
-
-This needs to be resolved in terms of github wiki markup...
-
-HOME
- |
- | - contact
- |      |-- book blog admin
- |      |-- blogify app dev team
- |      |-- book author(s)
- |
- | - about
- |      |-- about the OSS blogify project
- |      |-- about [book name] book blog admin
- |      |-- about blogify app dev team
- |
- | => [Book Name]: Blogified!!
- | 
- | - roadmap
- |      |
- |      |-- Versions --< Features --< Commits --< Tests --< Barter Points
- |
- | - error:  Page Not Found.
-
 .gitignore
  
